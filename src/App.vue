@@ -63,7 +63,7 @@ export default {
   cursor: pointer;
   font-weight: bold;
 }
-.bota[disabled]{
+.botao[disabled]{
   opacity: 0.2;
   cursor: not-allowed;
 }
